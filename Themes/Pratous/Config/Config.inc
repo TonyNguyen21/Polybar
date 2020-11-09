@@ -1,15 +1,15 @@
 [Variables]
 Bar_Opacity=ff
-Bar_Width =1840
+Bar_Width =1920
 Bar_Height =40
 Bar_OffsetX =40
 Bar_OffsetY =0
 
-Color_Scheme1 =262626
-Color_Scheme2 =A69585
-Color_Scheme3 =4E4E4E
-Color_Scheme4 =FFFFFF
-Color_Scheme5 =DB7A4D
+Color_Scheme1 =1B1E1D
+Color_Scheme2 =C6C2C0
+Color_Scheme3 =C6C2C0
+Color_Scheme4 =EAEAEB
+Color_Scheme5 =B4674B
 
 Font_Face=Fira Mono Medium
 Font_Size=12
@@ -17,5 +17,5 @@ Font_Size=12
 Shadow=1
 Translucent=0
 
-DefaultAddedModules=volume,discord,power,tray,startmenu,date,time,wifi,mail,workspacemanager,taskbar
+DefaultAddedModules=music,time,date,workspacemanager,wifi,volume,uptime,power
 
